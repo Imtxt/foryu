@@ -1,0 +1,49 @@
+body,html {
+  height: 100%;
+  width: 100%;
+}
+
+
+body{
+  background-image: url(https://manybackgrounds.com/images/hd/flying-windmill-island-gorillaz-7bc2ba9eb86g4dc1.jpg);
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+div{
+  width: 100px;
+  height: 100px;
+  background-image: ;
+  animation-name: example;
+  animation-duration: 4s;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  
+  
+}
+
+.ddd {
+  color: #d1cccc;
+  display: flex;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+footer{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
